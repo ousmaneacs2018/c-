@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1531747986 source:d:\users\stagiaire\documents\entrainement\compte_bancaire\main.cpp
+	"compte.h"
+
+1531750362 d:\users\stagiaire\documents\entrainement\compte_bancaire\compte.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<algorithm>
+	<string>
+	<sstream>
+
+1531752075 source:d:\users\stagiaire\documents\entrainement\compte_bancaire\compte.cpp
+	"compte.h"
+
